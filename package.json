@@ -4,6 +4,7 @@
   "description": "Projeto to do para estudo",
   "main": "./src/server.ts",
   "scripts": {
+    "start": "ts-node ./src/server.ts",
     "dev": "nodemon",
     "build": "tsc"
   },
